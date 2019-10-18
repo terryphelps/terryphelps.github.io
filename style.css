@@ -17,12 +17,22 @@
   width: 99vw;
   height: 100vh;
 }
+.skill-img-grid {
+    height: 90px;
+    width: 90px;
+}
+.p-1 {
+  padding: 0.25rem !important;
+}
   
 #aboutJump {
   background-color: sandybrown;
 }
 #contactJump {
   background-color: burlywood;
+}
+#skillJump {
+  background-color: sandybrown;
 }
 .left:hover{
   font-weight: bold;
